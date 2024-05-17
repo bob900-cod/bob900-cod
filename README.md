@@ -1,14 +1,13 @@
 
 
 ```js
-npm install friends
+STI
 ```
 
 
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bob900-cod&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=bob900-cod&theme=juicyfresh)]
 
 
 <div align="center">
